@@ -1,0 +1,200 @@
+3월 22, 2022 12:50:10 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 동구---------------------------------------------------
+지역명 : 대전광역시 동구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:50:10 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 중구---------------------------------------------------
+지역명 : 대전광역시 중구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 서구---------------------------------------------------
+지역명 : 대전광역시 서구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 유성구---------------------------------------------------
+지역명 : 대전광역시 유성구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 대덕구---------------------------------------------------
+지역명 : 대전광역시 대덕구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:50:11 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 동구---------------------------------------------------
+지역명 : 대전광역시 동구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 중구---------------------------------------------------
+지역명 : 대전광역시 중구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 서구---------------------------------------------------
+지역명 : 대전광역시 서구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 유성구---------------------------------------------------
+지역명 : 대전광역시 유성구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 대덕구---------------------------------------------------
+지역명 : 대전광역시 대덕구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:52:25 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 동구---------------------------------------------------
+지역명 : 대전광역시 동구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 중구---------------------------------------------------
+지역명 : 대전광역시 중구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 서구---------------------------------------------------
+지역명 : 대전광역시 서구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 유성구---------------------------------------------------
+지역명 : 대전광역시 유성구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 대덕구---------------------------------------------------
+지역명 : 대전광역시 대덕구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 12:54:16 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 동구---------------------------------------------------
+지역명 : 대전광역시 동구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 중구---------------------------------------------------
+지역명 : 대전광역시 중구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 서구---------------------------------------------------
+지역명 : 대전광역시 서구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 유성구---------------------------------------------------
+지역명 : 대전광역시 유성구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.3, 1시간 강수량 : 0, 동서바람성분 : 1.1, 남북바람성분 : 1.1, 습도 : 43, 강수형태 : 0, 풍향 : 332, 풍속 : 2.4
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: ----------------------------------------대전광역시 대덕구---------------------------------------------------
+지역명 : 대전광역시 대덕구, ResultCode : 00, resultMsg : NORMAL_SERVICE, numOfRows : 10, totalCount : 8, pageNo : 1
+3월 22, 2022 1:00:15 오전 com.clamos.redis.scheduling.ScheduledTask reportCurrentTime
+정보: 일자 : 20220322, baseTime : 0000, 기온 : 4.2, 1시간 강수량 : 0, 동서바람성분 : -0.6, 남북바람성분 : -0.6, 습도 : 41, 강수형태 : 0, 풍향 : 45, 풍속 : 1
+---------------------------------------------------------------------------------------------------------
+
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 동구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 중구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 대덕구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 유성구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 서구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 동구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 중구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 대덕구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 유성구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 서구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 동구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 중구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 대덕구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 유성구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 서구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 동구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 중구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 대덕구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 유성구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 서구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 동구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 중구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 대덕구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 유성구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:02:50 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 서구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:05:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 동구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:05:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 중구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
+3월 22, 2022 1:05:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 서구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:05:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 유성구, baseDate=20220322, baseTime=0000, temperature=4.3, hourPrecipitation=0, eastWestWind=1.1, southNorthWind=-2, humidity=43, precipitationForm=0, windDirection=332, windSpeed=2.4)
+3월 22, 2022 1:05:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=대전광역시 대덕구, baseDate=20220322, baseTime=0000, temperature=4.2, hourPrecipitation=0, eastWestWind=-0.6, southNorthWind=-0.6, humidity=41, precipitationForm=0, windDirection=45, windSpeed=1)
