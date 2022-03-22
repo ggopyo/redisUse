@@ -31,8 +31,6 @@ import java.util.logging.SimpleFormatter;
 @Component
 @Slf4j
 public class ScheduledTask {
-
-
     private static final SimpleDateFormat dateFormat = new SimpleDateFormat("HH:mm");
     private static String apiUrl = "http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst";// 날씨 공공데이터(초단기실황조회) URL
     private static String serviceKey = "y8YlOsRl3U%2BsizzI%2F8XAFyZ%2BEC2%2BpC%2BZKvmaydgd9gcLtLjRon2iL9FUHQkrvbOOKn%2F%2FI1AYuT41c1b9FWK8aw%3D%3D";
@@ -40,10 +38,9 @@ public class ScheduledTask {
     @Autowired
     WeatherRepository weatherItemRepo;
 
-    //        @Scheduled(fixedRate = 30000) // 초단기실황 호출 사이의 간격을 지정하여 호출도 가능함
-    @Scheduled(cron = "30 5,10,20,30,48,54 * * * *") // 매 시간 10분 단위로 30초 이후 실행됨. 예) 1시 0분 30초, 2시 20분 30초 ...등
+    //  @Scheduled(fixedRate = 30000) // 초단기실황 호출 사이의 간격을 지정하여 호출도 가능함
+    @Scheduled(cron = "20 0,10,20,30,40,50 * * * *") // 매 시간 10분 단위로 30초 이후 실행됨. 예) 1시 0분 30초, 2시 20분 30초 ...등
     public void reportCurrentTime() {
-
 
         log.info("현재 시각 {}", dateFormat.format(new Date()));
         Calendar calendar = Calendar.getInstance();
@@ -53,7 +50,6 @@ public class ScheduledTask {
         // 정각 기준 매 40분 마다 해당 정각 시각을 호출할 수 있음, 그렇지 않으면 오류가 반환됨
         // 예) 03:30분에 0300 호출 (x), 03:30분에 0200 호출(o),
         // 예) 03:40분에 0300 호출(o), 03:40분에 0200 호출(x)
-
         int hourOfDay = calendar.get(Calendar.HOUR_OF_DAY);
 
         LocalDate today = LocalDate.now();

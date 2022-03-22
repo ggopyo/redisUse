@@ -1,0 +1,12 @@
+3월 22, 2022 10:20:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=zz, baseDate=20220322, baseTime=0900, temperature=6.3, hourPrecipitation=0, eastWestWind=0.7, southNorthWind=-1.4, humidity=41, precipitationForm=0, windDirection=335, windSpeed=1.7)
+3월 22, 2022 10:30:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=dd, baseDate=20220322, baseTime=0900, temperature=6.4, hourPrecipitation=0, eastWestWind=0.1, southNorthWind=-1.6, humidity=40, precipitationForm=0, windDirection=356, windSpeed=1.7)
+3월 22, 2022 10:30:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=aa, baseDate=20220322, baseTime=0900, temperature=6.4, hourPrecipitation=0, eastWestWind=0.1, southNorthWind=-1.6, humidity=40, precipitationForm=0, windDirection=356, windSpeed=1.7)
+3월 22, 2022 10:30:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=ff, baseDate=20220322, baseTime=0900, temperature=7.7, hourPrecipitation=0, eastWestWind=-1.6, southNorthWind=2.2, humidity=45, precipitationForm=0, windDirection=142, windSpeed=2.8)
+3월 22, 2022 10:30:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=qq, baseDate=20220322, baseTime=0900, temperature=7.7, hourPrecipitation=0, eastWestWind=-1.6, southNorthWind=2.2, humidity=45, precipitationForm=0, windDirection=142, windSpeed=2.8)
+3월 22, 2022 10:30:30 오전 com.clamos.redis.scheduling.ScheduledTask updateWeatherItems
+정보: WeatherItem(name=zz, baseDate=20220322, baseTime=0900, temperature=6.4, hourPrecipitation=0, eastWestWind=0.1, southNorthWind=-1.6, humidity=40, precipitationForm=0, windDirection=356, windSpeed=1.7)
